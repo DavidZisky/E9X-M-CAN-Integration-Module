@@ -1,0 +1,1177 @@
+VERSION ""
+
+
+NS_ :
+    NS_DESC_
+    CM_
+    BA_DEF_
+    BA_
+    VAL_
+    CAT_DEF_
+    CAT_
+    FILTER
+    BA_DEF_DEF_
+    EV_DATA_
+    ENVVAR_DATA_
+    SGTYPE_
+    SGTYPE_VAL_
+    BA_DEF_SGTYPE_
+    BA_SGTYPE_
+    SIG_TYPE_REF_
+    VAL_TABLE_
+    SIG_GROUP_
+    SIG_VALTYPE_
+    SIGTYPE_VALTYPE_
+    BO_TX_BU_
+    BA_DEF_REL_
+    BA_REL_
+    BA_DEF_DEF_REL_
+    BU_SG_REL_
+    BU_EV_REL_
+    BU_BO_REL_
+    SG_MUL_VAL_
+
+BS_: 
+BU_: MRS_ACSM FZD EKP EDC ZBE RLS RPA FRM LDM AFS GWS JBBF_KGM DKG_EGS IHKA KOMBI ACC SZL PDC CIC DSC DME_DDE CAS EMF EPS ARS AHM TRSVC SVT ASD PGS RDC SM_FA SM_BF ECALL HUD DWA NVC CTM 
+BO_ 2147483648 VECTOR__INDEPENDENT_SIG_MSG: 0 Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TPCI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TA : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NMPDU : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ Destination : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MRK_1 : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_MRK_1 : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ MUX_1 : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ IDX_MRK_1 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CAN_ID_1 : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ T_SEC_COU_REL_RED : 0|24@1+ (1,0) [0|0] "s" Vector__XXX
+   SG_ ST_SW_DSTB : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_PCOS : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_HT_RSCR : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_COS_SWO : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_PRED_PRIO_CF : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_PRED_PRIO : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_EBA_MOD : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ID2_EBA_DT_RQ : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_TPCT : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_RADA_ACC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_MOD_TRCT_DSC : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_EDCK_PRG_CFSP : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_DSC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_CFFU_EMF : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_FLLV_COL_SPAR : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_EDCK_PRG_CFSP : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_COU_EDCK : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ I_VA_FTAX : 0|16@1+ (1,0) [0|0] "mA" Vector__XXX
+   SG_ I_VA_BAX : 0|16@1+ (1,0) [0|0] "mA" Vector__XXX
+   SG_ ST_PUBU_CLSY : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_HOTM : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DSW_PSDR : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DSW_PSD : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DSW_DVDR : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DSW_DRD : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CT_BTL : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CT_BON : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CLSY : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_CLSY : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ AUTH_CLSY : 0|32@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ SW_BLTB_PS : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ SW_BLTB_DR : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OCCU_SEAT_PS : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CLAS_WGH_SEAT_RRH : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CLAS_WGH_SEAT_RLH : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CLAS_WGH_SEAT_PS : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CLAS_WGH_SEAT_DR : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DISP_CTI_DATE : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISP_SEC : 0|8@1+ (1,0) [0|0] "s" Vector__XXX
+   SG_ DISP_MN : 0|8@1+ (1,0) [0|0] "min" Vector__XXX
+   SG_ DISP_HR : 0|8@1+ (1,0) [0|0] "h" Vector__XXX
+   SG_ DISP_DATE_YR : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISP_DATE_WDAY : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISP_DATE_MON : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISP_DATE_DAY : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_TRAI : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DI_DF_TRAI : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RFV : 0|12@1+ (0.1,0) [0|0] "l" Vector__XXX
+   SG_ ST_WEAR_BRLN_FTAX : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_WEAR_BRLN_BAX : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ANGV_YAW_DSC_RWDT : 0|12@1- (0.2,0) [0|0] "*/s" Vector__XXX
+   SG_ ST_WI : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ PO_WIBL : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_KEY_RMC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_KEY_BT : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_KEY_BUT_ULOK : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_KEY_BUT_SPFN : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_KEY_BUT_LOK : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_KEY_BUT_BTL : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_KEY_PRSL_IMME : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_KEY_PRSL : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_ITLI_PLIP : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ V_WI : 0|4@1+ (2,33) [0|0] "wiping strokes/min" Vector__XXX
+   SG_ ST_SMOD_RNSE : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RNSE : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ INT_RN : 0|8@1+ (0.5,0) [0|0] "%" Vector__XXX
+   SG_ INTM_T : 0|16@1+ (100,0) [0|0] "ms" Vector__XXX
+   SG_ CTR_WI_SNS : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_USUP_LP : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_STLI : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RVLI : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RPLIS : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RFLI : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_POLI : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_PLI_RH : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_PLI_LH : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MBHF : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_LIST_ERR : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_FFLI : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DIPB : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RQ_NU : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ HGLV_RRH_LWR : 0|12@1- (0.125,0) [0|0] "mm" Vector__XXX
+   SG_ HGLV_FRH_LWR : 0|12@1- (0.125,0) [0|0] "mm" Vector__XXX
+   SG_ HGLV_RRH_AISP : 0|12@1- (0.125,0) [0|0] "mm" Vector__XXX
+   SG_ HGLV_RLH_AISP : 0|12@1- (0.125,0) [0|0] "mm" Vector__XXX
+   SG_ HGLV_FRH_AISP : 0|12@1- (0.125,0) [0|0] "mm" Vector__XXX
+   SG_ HGLV_FLH_AISP : 0|12@1- (0.125,0) [0|0] "mm" Vector__XXX
+   SG_ ST_IDC_STOP : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_IDC_KI : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_IDC : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CCLK_IDC : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_DISP_PRG_GRB : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_DISP_PO_GRB_IDC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_DISP_PO_GRB_COMP : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_DISP_PO_GRB : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_DISP_GR_GRB : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_DISP_DSTU_GRB : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_DISP_ASSC_IDC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_DISP_ASSC : 0|5@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ HTFL_ST_DME : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ HTFL_RQ_DME : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ HTFL_ST_AIC : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ HTFL_RQ_AIC : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_WALI_BRK : 0|6@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_WALI_BLT : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_IDLI_HABR : 0|7@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_IDLI_DSC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_IDLI_ADB : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_FLLV_WAFL : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ABWL : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RCPT_ACC_SWO_SYS_KI : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_KI : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ARS : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ MILE : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_WR_RLS : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_SHFT_RQ_BRG : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RCPT_DSC_EMF : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RCPT_DSC_ACC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_INTF_DSC_EMF : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_HBA : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ECD_INTF_ACC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DEAC_CFFU : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CT_BRPD : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_BRP : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ABS : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RQ_SHAF : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RCPT_ACC_SWO_SYS_DSC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_STLIS : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_DSC : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_COU_DSC : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TYP_CHRP_DME1 : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ENB_ENG_STA_DME1 : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CHRP_DME1C : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_CHRP_DME1C : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHRP_DME1C : 0|48@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_GAPC_ACC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_PUBU_STTR : 0|5@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_GRSS_PK_2 : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_GRSS_PK_1 : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_GRSS_OPMO : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_GRSS_DCOD : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_GRSS_CODD : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_COU_GRSS : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RADA_ACC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DISP_OBJ_CAP : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DISP_DVOR : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DISP_DR_RQSP : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DISP_DR_GAPC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ACC_SWO_SYS : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ACC_MOD : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RCPT_ACTVN_DR : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ GAP_AVL_TARO : 0|8@1+ (1,0) [0|0] "m" Vector__XXX
+   SG_ DISP_SEN_DRT : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISP_RECW : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISP_OBJ_CAP : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISP_GRQ : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISP_DVOR : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISP_DR_RQSP : 0|12@1+ (1,0) [0|0] "km/h" Vector__XXX
+   SG_ DISP_DR_GAPC : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_ACC : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_COU_ACC : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TYP_CHRP_CASD : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ENG_STA_CAS : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CASD : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RQ_ST_DME : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHRP_CASD : 0|48@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ V_VEH_REF : 0|12@1+ (0.0625,0) [0|0] "km/h" Vector__XXX
+   SG_ CHKSM_BSVLS : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ BSVL_ACLN_LN_MIN : 0|12@1- (0.025,0) [0|0] "m/s^2" Vector__XXX
+   SG_ BSVL_ACLN_LN_MAX : 0|12@1- (0.025,0) [0|0] "m/s^2" Vector__XXX
+   SG_ ALIV_BSVLS : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RWDT_V_YAW : 0|48@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RQ_RWDT_V_YAW : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ SI_SYST_0_SZL_STEA : 0|8@1+ (250,0) [0|0] "microseconds" Vector__XXX
+   SG_ TORQ_TAR_SSG : 0|12@1- (0.5,0) [0|0] "Nm" Vector__XXX
+   SG_ TORQ_TAR_ADJR_POS_SSG : 0|12@1- (0.5,0) [0|0] "Nm" Vector__XXX
+   SG_ ST_TORQ_TAR_SSG : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_SHPS_SSG : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_OBD_GRB_SSG : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_OBD_ERR_GRB_SSG : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_LIM_STORQ_SSG : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CLT_SSG : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RQ_Motorstop : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ LIM_RPM_ENG : 0|8@1+ (29.4118,0) [0|0] "1/min" Vector__XXX
+   SG_ CHKSM_TORQ_SSG : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_TORQ_SSG : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RCPT_EGS_ACC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RPM_GRB_NEGL : 0|16@1+ (0.125,0) [0|0] "1/min" Vector__XXX
+   SG_ CTR_ENG_MOD_S : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_EMF_LOCA : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_HYD_RETA : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_EMF_LOCA : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DCRN_BRP_TAR_EMF : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CFFU_EMF : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_BRG_DYN : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ OP_EMF_PUBU : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DCRN_BRP_TAR_EMF : 0|12@1- (0.01,0) [0|0] "m/s^2" Vector__XXX
+   SG_ CTR_GRB_PPOS : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_DCRN_BRP_EMF : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_DCRN_BRP_EMF : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_COU_EMF : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DCRN_BRP_TAR_ACC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ACC_SWO_SYS_DSC : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DCRN_BRP_TAR_ACC : 0|12@1- (0.01,0) [0|0] "m/s^2" Vector__XXX
+   SG_ CTR_PRF_BRSY : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_BRG_DYN : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_DCRN_BRP_ACC : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_DCRN_BRP_ACC : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ECU_INTV_IMME : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 419 UNKNOWN: 5 DSC
+
+BO_ 1559 EKP: 8 EKP
+
+BO_ 796 STAT_RPA_2: 8 RPA
+
+BO_ 405 OP_PUBU_MSA: 2 IHKA
+
+BO_ 185 TORQ_REQ_AFS: 6 AFS
+
+BO_ 758 CTR_LMP: 2 FRM
+
+BO_ 191 ANF_RADMOM_PT: 5 DSC
+
+BO_ 309 EKP_CRASH: 2 EKP
+
+BO_ 1528 NETWORK_MANAGEMENT_IHK: 8 IHKA
+
+BO_ 1507 NETWORKMANAGEMENT_CCCGW_MASK: 8 CIC
+
+BO_ 1522 NETWORKMANAGEMENT_FRM: 8 FRM
+
+BO_ 1456 NETWORKMANAGEMENT_EPS: 8 EPS
+
+BO_ 1430 NETWORKMANAGEMENT_AFS: 8 AFS
+
+BO_ 776 STAT_MSA: 8 DME_DDE
+
+BO_ 907 STAT_BATTERY: 5 DME_DDE
+
+BO_ 172 TORQ_WHEEL_DRIVETRAIN_2: 8 DME_DDE
+
+BO_ 180 TORQ_WHEEL_DRIVETRAIN_1: 8 DME_DDE
+
+BO_ 947 POWERMGMT_CONSUMER_CONT: 6 DME_DDE
+
+BO_ 813 DISPLAY_HDC: 8 DSC
+
+BO_ 244 F_CAN_CLU3_VDA: 8 Vector__XXX
+
+BO_ 513 STAT_EMF: 8 EMF
+
+BO_ 423 STELLANF_EMF: 8 DSC
+
+BO_ 508 TEILSOLLWERTE_AFS_DSC: 8 AFS
+
+BO_ 794 OP_PUBU_HDC: 2 CIC
+
+BO_ 128 F_CAN_SYNC_SENSOR_CLUSTER: 8 DSC
+
+BO_ 187 SOLL_MOM_ANF: 8 DSC
+
+BO_ 740 STAT_TRAILER: 2 AHM
+
+BO_ 286 F_CAN_CONTROL_INTVNS_DSC_AFS: 8 DSC
+
+BO_ 195 RWDT_STEA_WHL: 8 SZL
+
+BO_ 280 EXCH_AFS_DSC: 8 AFS
+
+BO_ 201 F_CAN_SWA: 8 SZL
+
+BO_ 357 F_CAN_CLU_STAT_VDA: 8 Vector__XXX
+
+BO_ 227 F_CAN_CLU_2_VDA: 8 Vector__XXX
+
+BO_ 216 F_CAN_CLU_1_VDA: 8 Vector__XXX
+
+BO_ 780 BRAKEPAD: 8 Vector__XXX
+
+BO_ 920 BEDIENUNG_CHASSIS: 2 CIC
+   SG_ OP_DSC : 10|3@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 944 STAT_REVERSE_GEAR: 2 FRM
+
+BO_ 898 ELECTRONIC_ENGINE_OIL_SENSOR_M: 8 DME_DDE
+
+BO_ 502 STAT_TURN_SIGNALS: 2 SZL
+   SG_ TurnSignalIdle : 9|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ TurnSignalActive : 8|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ RightTurn : 5|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ LeftTurn : 4|1@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ HoldActivated : 0|1@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 403 STAT_CC_DCC: 8 DSC
+   SG_ Counter_403 : 7|8@0+ (1,0) [0|255] "" Vector__XXX
+   SG_ CruiseActive : 43|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ CruiseSpeedChangeRequest : 48|1@0+ (1,0) [0|1] "" Vector__XXX
+   SG_ CruiseControlSetpointSpeed : 15|8@0+ (1,-2) [0|255] "kph/mph" Vector__XXX
+
+BO_ 1432 NETWORKMANAGEMENT_GWS: 8 GWS
+
+BO_ 200 STEER_ANG_SZL: 8 SZL
+
+BO_ 552 BEDIENUNG_SPECIAL_FUNCTION: 2 CIC
+   SG_ ID_SPFN : 0|8@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 1426 CC_MSG_STD: 8 DME_DDE
+   SG_ ID2 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_CC_MESS_STD : 8|16@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CC_MESS_STD : 24|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TRANF_CC_MESS_STD : 26|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_IDC_CCLK_CC_MESS_STD : 30|2@1+ (1,0) [0|3] "" Vector__XXX
+
+BO_ 847 STAT_CT_HABR: 8 DSC
+
+BO_ 917 CODIERUNG_PM: 5 CAS
+
+BO_ 753 DRIVER_IDENTIFICATION: 8 MRS_ACSM
+
+BO_ 1408 CBS_RESET: 8 Vector__XXX
+
+BO_ 824 CHECK_CONTROL: 8 KOMBI
+   SG_ CC_ID_ABS : 40|24@1- (1,0) [0|0] "" Vector__XXX
+   SG_ CC_ID : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 373 DISP_ENGDAT: 8 DME_DDE
+
+BO_ 266 GETRIEBE_DATEN_4: 8 DKG_EGS
+
+BO_ 921 M_DRIVE: 8 DME_DDE
+   SG_ ALIV_ST_MDRV : 4|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_ST_MDRV : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MDRV_SHFTLIT : 43|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MDRV_ST : 32|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MDRV_DRVLOG : 16|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MDRV_POW : 20|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MDRV_ACT2 : 34|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MDRV_ACT : 14|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MDRVE_GWS : 9|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MDRV_DSC : 11|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 970 MDRIVE_SETTINGS_DVCH: 8 CIC
+
+BO_ 473 M_BUTTON: 3 SZL
+   SG_ CNTR_M_BUTTON : 16|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ M_BUTTON_XOR : 6|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ M_BUTTON : 14|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 408 GWS_SPORT_BUTTON: 8 GWS
+   SG_ ST_DKG_SPORT_MOD : 25|1@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ SPORT_BUTTON : 33|1@1- (1,0) [0|0] "" Vector__XXX
+   SG_ PButSecond : 26|2@1+ (1,0) [0|3] "" Vector__XXX
+   SG_ SideBut : 28|2@1+ (1,0) [0|3] "" Vector__XXX
+   SG_ SportButtonPressed : 34|2@1+ (1,0) [0|255] "" Vector__XXX
+   SG_ M3but : 36|2@1+ (1,0) [0|3] "" Vector__XXX
+   SG_ SideButXOR11 : 30|2@1+ (1,0) [0|3] "" Vector__XXX
+   SG_ m3ShifPosXOR1111 : 8|4@1+ (1,0) [0|15] "" Vector__XXX
+   SG_ m3ShifPos : 4|4@1+ (1,0) [0|15] "" Vector__XXX
+
+BO_ 842 GPS_LONG_LAT: 8 CIC
+   SG_ GPS_LONG : 0|32@1- (8.4e-08,0) [0|0] "" Vector__XXX
+   SG_ GPS_LAT : 32|32@1- (8.4e-08,0) [0|0] "" Vector__XXX
+
+BO_ 518 SHLI_ST: 2 DME_DDE
+   SG_ CTR_SHLI_T : 4|12@1+ (1,0) [0|40930] "ms" Vector__XXX
+   SG_ CTR_SHLI : 0|2@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ CTR_SHLI_FLS : 2|2@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 789 VEH_MOD: 2 CAS
+   SG_ CHKSM_MOD_VEH : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_MOD_VEH : 12|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ MOD_VEH : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 893 STAT_DKG: 2 DKG_EGS
+   SG_ ST_TEMP_DKG : 8|8@1+ (1,0) [0|255] "" Vector__XXX
+   SG_ TEMP_DKG : 0|8@1+ (1,-40) [-40|215] "*C" Vector__XXX
+
+BO_ 945 GETRIEBE_DATEN_3: 6 DKG_EGS
+
+BO_ 772 STAT_GEAR: 8 DKG_EGS
+
+BO_ 184 TORQ_REQ_DKG: 8 DKG_EGS
+   SG_ RPM_TAR_ENG_DKG : 52|12@1+ (10,0) [0|10230] "rpm" Vector__XXX
+   SG_ ST_MOD_DKG : 48|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_CLT_DKG : 36|12@1- (0.5,0) [-1023.5|1023.5] "nm" Vector__XXX
+   SG_ TORQ_TAR_ADJR_POS_DKG : 24|12@1- (0.5,0) [-1023.5|1023.5] "nm" Vector__XXX
+   SG_ TORQ_TAR_DKG : 12|12@1- (0.5,0) [-1023.5|1023.5] "nm" Vector__XXX
+   SG_ ALIV_TORQ_DKG : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_TORQ_DKG : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 797 STAT_RPA: 2 DSC
+
+BO_ 1504 BOS_RESET: 8 KOMBI
+
+BO_ 1557 INSTR3: 8 KOMBI
+
+BO_ 691 BESCHL_DATEN: 8 DSC
+
+BO_ 793 BEDIEN_RDC: 2 Vector__XXX
+
+BO_ 790 OPERATION_BUTTON_DSC: 8 KOMBI
+
+BO_ 1449 NETWORKMANAGEMENT_DSC: 8 DSC
+
+BO_ 225 RADMOM_BREMSE: 6 DSC
+
+BO_ 762 STAT_SEAT_OCCU_BELT_CONTACTS: 5 MRS_ACSM
+
+BO_ 884 RAD_TOLERANZ: 5 DSC
+   SG_ ST_TOMA : 32|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TOMA_WHL_RRH : 24|8@1- (0.1,0) [-5|5] "%" Vector__XXX
+   SG_ TOMA_WHL_RLH : 16|8@1- (0.1,0) [-5|5] "%" Vector__XXX
+   SG_ TOMA_WHL_FRH : 8|8@1- (0.1,0) [-5|5] "%" Vector__XXX
+   SG_ TOMA_WHL_FLH : 0|8@1- (0.1,1) [-5|5] "%" Vector__XXX
+
+BO_ 1176 NETWORKMANAGEMENT_DKG: 8 DKG_EGS
+
+BO_ 1185 NETWORKMANAGEMENT_ACC: 8 ACC
+
+BO_ 1193 NETWORKMANAGEMENT_DSC_CT: 8 DSC
+
+BO_ 1506 NETWORKMANAGEMENT_CCCGW: 8 CIC
+
+BO_ 1209 NETWORKMANAGEMENT_EDCK: 8 EDC
+
+BO_ 806 STAT_EDC_MODE: 2 EDC
+   SG_ ST_EDC_MODE : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 802 DAMPER_CURRENT: 8 EDC
+   SG_ DAMPER_CURRENT_RRH : 48|16@1+ (1,0) [0|2] "A" Vector__XXX
+   SG_ DAMPER_CURRENT_RLH : 32|16@1+ (1,0) [0|2] "A" Vector__XXX
+   SG_ DAMPER_CURRENT_FRH : 16|16@1+ (1,0) [0|2] "A" Vector__XXX
+   SG_ DAMPER_CURRENT_FLH : 0|16@1+ (1,0) [0|2] "A" Vector__XXX
+
+BO_ 1264 NETWORKMANAGEMENT_LM_LM_ALC: 8 Vector__XXX
+
+BO_ 1152 NETWORKMANAGEMENT_KGM: 1 JBBF_KGM
+
+BO_ 1170 NETWORKMANAGEMENT_DME_DDE: 8 DME_DDE
+
+BO_ 404 STAT_CC_ACC: 4 SZL
+   SG_ OP_PUBU_CCTR_ACC : 16|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_CCTR : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_CCTR : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 203 YAW_ANSWER_2: 8 DSC
+
+BO_ 202 YAW_REQUEST_2: 2 AFS
+
+BO_ 897 ELECTRONIC_ENGINE_OIL_DIPSTICK: 2 DME_DDE
+
+BO_ 174 DELAY_ANF_EMF: 6 EMF
+   SG_ ALIV_COU_AE : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKM_AE : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 760 DATE_TIME: 8 KOMBI
+   SG_ MONTH : 36|4@1+ (1,0) [0|0] "mm" Vector__XXX
+   SG_ DAY : 24|8@1+ (1,0) [0|0] "dd" Vector__XXX
+   SG_ YEAR : 40|12@1+ (1,0) [0|0] "yyyy" Vector__XXX
+   SG_ SECOUNDS : 16|8@1+ (1,0) [0|0] "ss" Vector__XXX
+   SG_ MINUTES : 8|8@1+ (1,0) [0|0] "mm" Vector__XXX
+   SG_ HOURS : 0|8@1+ (1,0) [0|0] "hh" Vector__XXX
+
+BO_ 550 RAIN_SENSOR_WIPER_SPEED: 5 RLS
+
+BO_ 538 STAT_LIGHTING: 3 FRM
+   SG_ ST_HEADLIGHTS : 0|3@1+ (1,0) [0|7] "" Vector__XXX
+   SG_ R_FOG_LIGHTS : 6|1@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ F_FOG_LIGHTS : 5|1@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ INTERIOR_LIGHTS : 9|4@1+ (1,0) [0|15] "" Vector__XXX
+   SG_ MAIN_INT_LIGHTS : 12|1@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ REVERSE_LIGHTS : 8|1@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ BRAKE_LIGHTS : 7|1@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 586 STAT_PDC: 2 PDC
+
+BO_ 422 DISTANCE: 8 DSC
+   SG_ DISTANCE_4_5 : 32|16@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISTANCE_2_3 : 16|16@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DISTANCE_1_0 : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 437 WAERMESTROM_KLIMA: 7 IHKA
+   SG_ CTR_EFAN_AIC : 24|4@1+ (1,0) [0|14] "" Vector__XXX
+   SG_ CTR_AIC_SPFN : 28|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_AIC_RDI : 32|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_CLMP : 30|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_TAR_ACCM : 16|8@1+ (0.5,0) [0|30] "Nm" Vector__XXX
+   SG_ ST_PWR_SPCOS : 0|8@1+ (0.5,0) [0|100] "%" Vector__XXX
+
+BO_ 173 DELAY_ANF_ACC: 4 ACC
+   SG_ ALIV_COU_ELAY_ANF_ACC : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKM_ELAY_ANF_ACC : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 678 STAT_WIPER_SWITCH: 2 SZL
+   SG_ ST_WIPERS_AUTO : 0|1@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 470 CONTROL_BUTTONS_AUDIO_TELEFON: 2 SZL
+   SG_ MFUNC_LWK : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 570 STAT_KEY: 4 CAS
+
+BO_ 904 VEHICLE_TYPE: 7 CAS
+   SG_ TYP_VEH : 0|8@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ TYP_BODY : 8|8@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ QUAN_CYL : 16|4@1+ (1,0) [0|1] "cylinders" Vector__XXX
+   SG_ QUAN_GR : 20|4@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ TYP_ENG : 24|4@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ TYP_STE : 28|4@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ TYP_GRB : 32|4@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ CLAS_PWR : 36|4@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ TYP_CNT : 40|8@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ TYP_CAPA : 48|8@1+ (100,0) [0|1] "cc" Vector__XXX
+
+BO_ 896 CHASSIS_NUMBER: 7 CAS
+   SG_ NO_VECH_7 : 48|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_VECH_6 : 40|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_VECH_5 : 32|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_VECH_4 : 24|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_VECH_3 : 16|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_VECH_2 : 8|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_VECH_1 : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 910 STARTING_SPEED: 2 DME_DDE
+   SG_ RPM_ENG_STA : 0|16@1+ (0.25,0) [0|0] "1/min" Vector__XXX
+
+BO_ 438 HEATFLOW_ENGINE: 7 DME_DDE
+   SG_ HTFL_ST_DME : 8|8@1+ (1,0) [255|255] "0xFF" Vector__XXX
+   SG_ HTFL_RQ_DME : 0|8@1+ (1,0) [255|255] "0xFF" Vector__XXX
+   SG_ LDST_GEN : 48|8@1+ (1,0) [0|0] "%" Vector__XXX
+   SG_ ST_LDST_GEN : 42|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_GEN : 40|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_I_GEN : 32|8@1+ (1,0) [0|254] "A" Vector__XXX
+   SG_ ST_CRAW_ENG : 24|8@1+ (1,0) [0|254] "A" Vector__XXX
+   SG_ ACCM_LIM_TORQ : 16|8@1+ (0.5,0) [0|30] "Nm" Vector__XXX
+
+BO_ 1187 NETWORKMANAGEMENT_ARS: 8 ARS
+
+BO_ 509 STAT_REQ_EMF: 6 EMF
+
+BO_ 816 ODO_FUEL: 8 KOMBI
+   SG_ RNG : 52|12@1+ (1,0) [0|4094] "km" Vector__XXX
+   SG_ ST_FLLV_FUTA_SPAR : 48|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ FLLV_FUTA_RH : 40|8@1+ (0.5,0) [0|127] "l" Vector__XXX
+   SG_ FLLV_FUTA_LH : 32|8@1+ (0.5,0) [0|127] "l" Vector__XXX
+   SG_ FLLV_FUTA : 24|8@1+ (1,0) [0|254] "l" Vector__XXX
+   SG_ MILE_KM : 0|24@1+ (1,0) [0|0] "km" Vector__XXX
+
+BO_ 784 OUTSIDE_TEMP_RELATIVE_TIME: 7 KOMBI
+   SG_ T_DAY_COU_ABSL : 40|16@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ T_SEC_COU_REL : 8|32@1+ (1,0) [0|0] "s" Vector__XXX
+   SG_ TEMP_EX : 0|8@1+ (0.5,-40) [0|0] "*C" Vector__XXX
+
+BO_ 512 SPEED_CRUISECONTROL: 8 DME_DDE
+   SG_ V_CCTR_IDX_NO_3 : 52|12@1+ (0.1,0) [0|0] "km/h" Vector__XXX
+   SG_ V_CCTR_IDX_NO_2 : 40|12@1+ (0.1,0) [0|0] "km/h" Vector__XXX
+   SG_ V_CCTR_IDX_NO_1 : 28|12@1+ (0.1,0) [0|0] "km/h" Vector__XXX
+   SG_ IDX_NO : 24|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_DISP_CCTR : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_V_CLCTR_CCTR : 12|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ V_CLCTR_CCTR : 0|12@1+ (0.1,0) [0|0] "km/h" Vector__XXX
+
+BO_ 466 GETRIEBE_DATEN_DISPLAY: 6 DKG_EGS
+   SG_ ALIV_COU_EGS : 28|4@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 400 ANZEIGE_ACC: 8 ACC
+
+BO_ 690 WHEEL_BRAKE_PRESSURES: 8 DSC
+   SG_ BRP_WHL_RRH : 24|8@1+ (1,0) [0|0] "bar" Vector__XXX
+   SG_ BRP_WHL_RLH : 16|8@1+ (1,0) [0|0] "bar" Vector__XXX
+   SG_ BRP_WHL_FRH : 8|8@1+ (1,0) [0|0] "bar" Vector__XXX
+   SG_ BRP_WHL_FLH : 0|8@1+ (1,0) [0|0] "bar" Vector__XXX
+
+BO_ 436 STAT_KOMBI: 8 KOMBI
+   SG_ HandbrakeActive : 41|1@1+ (1,0) [0|3] "" Vector__XXX
+   SG_ ST_WALI_ENG : 36|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_COU_KI : 24|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_INTF_CCTRA_KI : 18|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_UN_V_SPDM : 12|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ V_VEH_SPDM : 0|12@1+ (0.1,0) [0|0] "km/h" Vector__XXX
+
+BO_ 183 TORQ_REQ_ACC: 6 ACC
+   SG_ ST_ACC_MOD_DME : 42|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ACC_SWO_SYS_DME : 40|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RQ_PREV_INFS_ACC : 38|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_TORQ_TAR_ACC : 36|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_TAR_ADJR_POS_ACC : 24|12@1- (0.5,0) [-1023.5|1023.5] "Nm" Vector__XXX
+   SG_ TORQ_TAR_ACC : 12|12@1- (0.5,0) [-1023.5|1023.5] "Nm" Vector__XXX
+   SG_ ALIV_TORQ_ACC : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_TORQ_ACC : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 428 STAT_ARS: 4 ARS
+   SG_ TORQ_AVL_ARS : 24|8@1+ (0.5,0) [0|50] "Nm" Vector__XXX
+   SG_ TORQ_TAR_ARS : 16|8@1+ (0.5,0) [0|50] "Nm" Vector__XXX
+   SG_ ALIV_COU_ARS : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CLCTR_ARS : 12|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 820 POWERMGMT_CHARGEVOLTAGE: 3 DME_DDE
+   SG_ TEMP_BT : 16|8@1+ (1,-48) [-48|206] "*C" Vector__XXX
+   SG_ RPM_IDLG_SPEC : 8|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CTR_GEN_U_TAR : 0|8@1+ (0.025,10.6) [10.6|16.9] "V" Vector__XXX
+
+BO_ 196 LENKRADWINKEL: 7 DSC
+   SG_ STWA : 0|16@1- (0.04395,0) [-1439.95|1439.95] "deg" Vector__XXX
+   SG_ STWA_ERR : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ STWA_V : 24|16@1- (0.04395,0) [-1439.95|1439.95] "deg/s" Vector__XXX
+
+BO_ 818 ENGINE_RPM: 2 DME_DDE
+   SG_ RPM_TEMP_DOM_2 : 8|8@1+ (50,0) [0|0] "1/min" Vector__XXX
+   SG_ RPM_TEMP_DOM_1 : 0|8@1+ (50,0) [0|0] "1/min" Vector__XXX
+
+BO_ 414 STAT_DSC: 8 DSC
+   SG_ BRP : 48|8@1+ (1,0) [0|0] "bar" Vector__XXX
+   SG_ ST_BRP : 40|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DCRN_AVL : 32|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DSC : 10|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CLCTR : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ABS : 8|2@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 182 DREHMOMENT_ANF_DSC: 5 DSC
+   SG_ ST_TORQ_TAR_DSC : 36|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_TAR_ADJR_POS_DSC : 24|12@1- (0.5,0) [-1023.5|1023.5] "Nm" Vector__XXX
+   SG_ ALIV_TORQ_DSC : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_TAR_DSC : 12|12@1- (0.5,0) [-1023.5|1023.5] "Nm" Vector__XXX
+   SG_ CHKS_TORQ_DSC : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 418 GETRIEBE_DATEN_2: 8 DKG_EGS
+   SG_ MAN_MODE : 50|1@1+ (1,0) [0|1] "" Vector__XXX
+   SG_ RPM_GRB_TURB : 0|16@1+ (0.125,6) [0|8191.75] "1/min" Vector__XXX
+
+BO_ 169 TORQUE_2: 8 DME_DDE
+   SG_ ST_SW_LEV_RPM : 12|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_INFS : 14|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_TORQ_2_DME : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_AVL_SPAR_POS : 52|12@1- (0.5,0) [-1023.5|1023.5] "Nm" Vector__XXX
+   SG_ TORQ_AVL_SPAR_NEG : 40|12@1- (0.5,0) [-1023.5|1023.5] "Nm" Vector__XXX
+   SG_ CHKSM_TORQ_2_DME : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_AVL_MIN : 16|12@1- (0.5,0) [-1023.5|1023.5] "Nm" Vector__XXX
+   SG_ TORQ_AVL_MAX : 28|12@1- (0.5,0) [-1023.5|1023.5] "Nm" Vector__XXX
+
+BO_ 186 GETRIEBE_DATEN_1: 8 DKG_EGS
+   SG_ ST_HYPP_ACV : 56|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_GRB : 48|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_MOD_GRB : 52|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_GRB : 40|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ GRDT_REIN : 8|12@1+ (0.125,0) [0|511.75] "1/m" Vector__XXX
+   SG_ ST_GR_GRB : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_GRLV_ACV : 4|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CCLT : 6|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RPM_GRB_NEGL : 24|16@1+ (0.125,0) [0|8160] "rpm" Vector__XXX
+
+BO_ 168 TORQUE_1: 8 DME_DDE
+   SG_ ST_OBD_CTFN_GRB : 56|5@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CT_BRPD_DME : 61|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RCPT_ENG_DSC : 52|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RCPT_ENG_ARS : 50|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RCPT_ENG_ACC : 48|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_RCPT_ENG_EGS : 54|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_DMEA_SWO : 44|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RCPT_ACC_SWO_SYS_DME : 46|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_TORQ_1_DME : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_TORQ_AVL : 24|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_TORQ_1_DME : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_AVL_DMEE : 28|12@1- (0.5,0) [0|0] "Nm" Vector__XXX
+   SG_ TORQ_AVL : 12|12@1- (0.5,0) [0|0] "Nm" Vector__XXX
+
+BO_ 181 TORQ_REQ_EGS: 8 DKG_EGS
+   SG_ ST_TORQ_TAR_EGS : 36|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_OTMP_GRB : 38|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_TAR_ADJR_POS_EGS : 24|12@1- (0.5,0) [0|0] "Nm" Vector__XXX
+   SG_ ST_OBD_GRB : 40|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_OBD_ERR_GRB : 44|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_LIM_STORQ : 46|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_DRAW_GRB : 48|8@1+ (0.5,0) [0|127] "Nm" Vector__XXX
+   SG_ TEMP_GRB : 56|8@1+ (1,-40) [-40|214] "*C" Vector__XXX
+   SG_ ALIV_TORQ_EGS : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_TORQ_EGS : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ TORQ_TAR_EGS : 12|12@1- (0.5,0) [0|0] "Nm" Vector__XXX
+
+BO_ 764 CENTRAL_LOCKING_DOOR_STATUS: 7 CAS
+   SG_ BOOT_STA : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ BONNET_STA : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DOOR_RR_STA : 14|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DOOR_RL_STA : 12|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DOOR_FR_STA : 10|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ DOOR_FL_STA : 8|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 170 TORQUE_3: 8 DME_DDE
+   SG_ RPM_ENG_ERR : 48|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_IDLG_ENG : 50|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_CLCTR_V : 52|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RQAM_FU : 56|8@1+ (1,0) [0|0] "l/h" Vector__XXX
+   SG_ TORQ_DVCH : 12|12@1- (0.5,0) [-1023.5|1023.5] "Nm" Vector__XXX
+   SG_ ALIV_TORQ_3_DME : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_TORQ_3_DME : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ANG_ACPD : 24|8@1+ (0.39063,0) [0|99.22] "%" Vector__XXX
+   SG_ RPM_ENG : 32|16@1+ (0.25,0) [0|8000] "1/min" Vector__XXX
+
+BO_ 402 SZL: 4 SZL
+   SG_ GEAR_SELECTOR : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 948 POWERMGMT_BATTERYVOLTAGE: 8 DME_DDE
+   SG_ SDWN_COU_BTSW : 32|8@1+ (1,0) [0|0] "s" Vector__XXX
+   SG_ ST_SWO_KL_30 : 30|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_BTSW : 12|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ U_BT : 0|12@1+ (15,0) [0|0] "mV" Vector__XXX
+   SG_ ENG_ST : 16|4@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 464 ENGINE_1: 8 DME_DDE
+   SG_ TEMP_EOI : 8|8@1+ (1,-48) [-48|206] "*C" Vector__XXX
+   SG_ TEMP_ENG : 0|8@1+ (1,-48) [-48|206] "*C" Vector__XXX
+   SG_ ST_SW_WAUP : 22|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ENG_RUN : 20|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ RPM_IDLG_TAR : 56|8@1+ (5,0) [0|1270] "1/min" Vector__XXX
+   SG_ IJV_FU : 32|16@1+ (1,0) [0|65534] "microliter" Vector__XXX
+   SG_ CTR_SLCK : 48|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_COU_DME : 16|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ AIP_ENG : 24|8@1+ (2,598) [600|1106] "hPa" Vector__XXX
+
+BO_ 416 GESCHWINDIGKEIT: 8 DSC
+   SG_ V_VEH : 0|12@1+ (0.1,0) [0.1|350] "km/h" Vector__XXX
+   SG_ ST_VEH_DVCO : 12|3@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_V : 56|8@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ANGV_YAW_DSC : 40|12@1- (0.05,0) [0|0] "deg/s" Vector__XXX
+   SG_ ALIV_V : 52|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ACLN_VEH_LN_DSC : 16|12@1- (0.025,0) [-51.175|51.175] "m/s^2" Vector__XXX
+   SG_ ACLN_VEH_ACRO_DSC : 28|12@1- (0.025,0) [-51.175|51.175] "m/s^2" Vector__XXX
+
+BO_ 304 STAT_TERMINAL: 5 CAS
+   SG_ ST_VHIM : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_PSVA_ACV : 26|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_LOKG_STCO : 20|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_KL_R : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_KL_50 : 4|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_KL_15 : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_KLCK : 22|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_KEY_VLD : 6|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_KEY_TYP : 12|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_KEY_PLGD : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ST_ILK_COD_BM : 28|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ PO_ID_PU : 24|2@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ NO_KEY : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ CHKSM_KL : 36|4@1+ (1,0) [0|0] "" Vector__XXX
+   SG_ ALIV_KL : 32|4@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 206 GESCHWINDIGKEIT_RAD: 8 DSC
+   SG_ V_WHL_RRH : 48|16@1- (0.0625,0) [-300|300] "km/h" Vector__XXX
+   SG_ V_WHL_RLH : 32|16@1- (0.0625,0) [-300|300] "km/h" Vector__XXX
+   SG_ V_WHL_FRH : 16|16@1- (0.0625,0) [-300|300] "km/h" Vector__XXX
+   SG_ V_WHL_FLH : 0|16@1- (0.0625,0) [-300|300] "km/h" Vector__XXX
+
+CM_ BU_ MRS_ACSM "Multiple Restraint System_Advanced Crash Safety Module";
+CM_ BU_ SZL "Switch Center Steering Wheel";
+CM_ BO_ 2147483648 "This is a message for not used signals, created by Vector CANdb++ DBC OLE DB Provider.";
+CM_ SG_ 2147483648 TORQ_TAR_SSG "torque target SSG";
+CM_ SG_ 2147483648 RPM_GRB_NEGL "5F2F - EGS error: EGS sends gearbox_status=invalid OR shift lever=invalid OR gearbox_negativelift=invalid (PT-CAN, ID 0xBA, signal RPM_GRB_NEGL, ST_GRLV_ACV, ST_GR_GRB).";
+CM_ SG_ 2147483648 ST_DCRN_BRP_TAR_ACC "5F09 - DSC-Acc interface (ECD): ACC sends validity check of set value failed (PT-CAN, ID 0xAD, signal ST_DCRN_BRP_TAR_ACC, DCRN_BRP_TAR_ACC).";
+CM_ SG_ 2147483648 DCRN_BRP_TAR_ACC "5F09 - DSC-Acc interface (ECD): ACC sends validity check of set value failed (PT-CAN, ID 0xAD, signal ST_DCRN_BRP_TAR_ACC, DCRN_BRP_TAR_ACC).";
+CM_ SG_ 2147483648 CHKSM_DCRN_BRP_ACC "5F2D - DSC-Acc interface (ECD): ACC sends: checksum of the received ACC message wrong (PT-CAN, ID 0xAD, signal CHKSM_DCRN_BRP_ACC).";
+CM_ SG_ 2147483648 ALIV_DCRN_BRP_ACC "5F08 - DSC-Acc interface (ECD): ACC sends ACC not alive (PT-CAN, ID 0xAD, signal ALIV_DCRN_BRP_ACC).";
+CM_ BO_ 796 "6e49 - RDC: Signal ST_BDOW_TYR in Botschaft STAT_RPA (0x31C) ungueltig (Sender RPA)";
+CM_ BO_ 405 "Operation push button MSA cycle: 10s KL_15";
+CM_ BO_ 185 "Torque request AFS cycle: 20ms BUS_ACTIV";
+CM_ BO_ 758 "Interior Light control FRMFA";
+CM_ BO_ 191 "Wheel torque request drive train";
+CM_ BO_ 309 "0x135 EKP Crash Precautions SGM 10 s YES 2 KL_15 CANINS x x x x x";
+CM_ BO_ 1528 "0x5F8 Service control unit 5F8 IHK Service 8 (Powermngmt standing consumer) 5s YES 8 BUS_ACTIV CANDNST - x x x x Service 110 (Powermngmt consumer status) 10s YES 8 KL_15 CANDNST x x x x x";
+CM_ BO_ 1507 "0x5E3 Service control unit 5E3 CCC_GW/M_-ASK Service 8 (Powermngmt standing consumer) 5s YES 8 BUS_ACTIV CANDNST - x x x x";
+CM_ BO_ 1522 "0x5F2 Service control unit 5F2 FRMFA/KBM Service 8 (Powermngmt standing consumer) 5s YES 8 BUS_ACTIV CANDNST - x x x x Service 110 (Powermngmt consumer status) 10s YES 8 KL_15 CANDNST x x x x x";
+CM_ BO_ 1456 "0x5B0 Service control unit 5B0 EPS Dienst 21 (Requirement level electric fan) 1s JA 8 KL_15 CANDNST - x x x x";
+CM_ BO_ 1430 "0x596 Service control unit 596 AFS Duty 21 (requirement level electric fan) 1s YES 8 KL_15 CANDNST x - x x x";
+CM_ BO_ 776 "0x308 Status MSA DME_DDE 500 ms JA 3 KL_15 CANDME - - - - x";
+CM_ BO_ 907 "0x38B Status Batterie DME_DDE - JA 5 KL_15 CANDME x x x x x";
+CM_ BO_ 172 "0xAC Radmoment Antriebsstang 2 DME_DDE 20 ms - 8";
+CM_ BO_ 180 "0xB4 Radmoment Antriebsstang 1 DME_DDE 20 ms - 8";
+CM_ BO_ 947 "0x3B3 Power management consumer control DME_DDE 5000 ms JA 6";
+CM_ BO_ 813 "DISPLAY_HDC - Hill Descent Control display status";
+CM_ BO_ 244 "D371 - F-CAN: message CLU3_VDA (0x0F4) not received or wrong message length. [Sender: DRS] - Power supply DRS defective?";
+CM_ BO_ 513 "6F4E - CAN message EMF STATUS_EMF (ID 0x201) not received 6DCC - CAN message EMF ??? (S_FscEmflLocateState)";
+CM_ BO_ 423 "6F4D - CAN message EMF STELLANF_EMF (ID 0x1A7) could not be sent (sent by DSC-SG)";
+CM_ BO_ 508 "Status AFS";
+CM_ BO_ 794 "Operation button HDC";
+CM_ BO_ 128 "F-CAN SYNC";
+CM_ BO_ 187 "5E6C - PT-CAN: Message SOLL_MOM_ANF (0xBB) could not be sent (sent by DSC-SG).";
+CM_ BO_ 740 "5E8C - PT-CAN: Message STATUS_ANHAENGER (ID 0x2E4) not received (received by DSC-SG). [Broadcaster:AHM] Status trailer AHM 5s YES 2 KL_15 CANLMP x x x x x";
+CM_ BO_ 286 "00CE98 Message (control interventions DSC, 0x11E) from DSC, reciever AFS, transmitter DSC 5E8A - F-CAN: Message REGELEINGRIFF_DSC_AFS (ID 0x11E) could not be sent (sent by DSC-SG).";
+CM_ BO_ 195 "D368 - PT-CAN: Message RWDT_STEA_WHL (ID 0x0C3) not received or wrong message length (DLC). [Broadcaster: SZL]";
+CM_ BO_ 280 "Exchange AFS to DSC";
+CM_ BO_ 201 "CAN Botschaft: F_CAN_SWA ID:0x0C9 D359 - F-CAN: message LENKRADANGE_OBEN (ID 0x0C9) not received (received by DSC-SG). [Broadcaster: SZL] 5ECB - Steering angle sensor: Signal STWA_TOP_COMP";
+CM_ BO_ 357 "CAN Botschaft: F_CAN_CLU_STATUS ID:0x165";
+CM_ BO_ 227 "CAN Botschaft: F_CAN_CLU_2 ID:0x0E3";
+CM_ BO_ 216 "CAN Botschaft: F_CAN_CLU_1 ID:0x0D8";
+CM_ BO_ 780 "CAN Botschaft: PT_CAN_BREMSBELAG ID:0x30C";
+CM_ BO_ 920 "Operation chassis";
+CM_ SG_ 920 OP_DSC "Operation_Stability_Control";
+CM_ BO_ 944 "CAN Botschaft: PT_CAN_GANG_RUECK ID:0x3B0 Reverse gear status LM 1s YES 2 KL_15 CANRST x x x x x";
+CM_ BO_ 552 "Operation special function";
+CM_ BO_ 1426 "Display check control message (standard) - Anzeige Checkcontrol-Meldung (Standard) ID2=64 A check control message is activated by the trigger condition and sent cyclically until the trigger condition is withdr.";
+CM_ SG_ 1426 ST_CC_MESS_STD "Status (to be applied with 0) 0-reset 1-Set 3-Signal invalid";
+CM_ SG_ 1426 TRANF_CC_MESS_STD "Cycle time in seconds. 1-14 cycle time [s]. 15 - Check control message disabled";
+CM_ SG_ 1426 ST_IDC_CCLK_CC_MESS_STD "Status Blinken. 0-no blinking 1-slow flashing 2-fast flashing 3-Signal invalid";
+CM_ BO_ 847 "3) Parking brake status is provided by data from PID 0x34F. ABS fail data is provided by ECU_29 from the PT6 protocol. I still need to find a data source to enable a low brake fluid warning.";
+CM_ BO_ 917 "Coding Power Management";
+CM_ BO_ 1408 "0x580 Service control unit JBBF. Service 8 (Powermngmt standing consumer) 5s YES 8 BUS_ACTIV CANDNST - - x x x. Service 110 (Powermngmt consumer status) 10 s YES 8 KL_15 CANDNST - x x x x";
+CM_ BO_ 824 "Bytes 0 & 1 are the CC-ID error code, usually show as icons in amber or red on the dashboard. Only when byte 5, 6 & 7 are FE. At other times the ID can hold other information.";
+CM_ SG_ 824 CC_ID_ABS "Bytes 0 & 1 are the CC-ID error code. Only valid when byte 5, 6 & 7 are FE.";
+CM_ SG_ 824 CC_ID "only valid when byte 5, 6 & 7 are FE. Bytes 0 & 1 are the CC-ID error code, usually show as icons in amber or red on the dashboard.";
+CM_ BO_ 373 "DME_DDE - That request N for KOMBI DISP_RPM_ENG broadcasted from DME_DDE in 0x175 DISP_ENGDAT (100ms) CAN message and ruled via calibration value C_N_DISP_DYN_ENA (condition for sending, 0:do not send, 1:=N_DISP_DYN, 2:=N_CAN).";
+CM_ BO_ 266 "DCT - That request RQ_GRB_DYNS_DISP_RPM_ENG (LV_N_DISP_DYN) (2 bits) broadcasted from TCU in 0x10A and 0x1A2 GETRIEBEDATEN CAN messages.";
+CM_ SG_ 921 ALIV_ST_MDRV "Range_-_0...Eh._Invalid_-_Fh";
+CM_ SG_ 921 ST_MDRV_SHFTLIT "00 Unchanged 01 Off 10 On";
+CM_ SG_ 921 ST_MDRV_ST "Servotronic MDrive mode 01 Normal 10 Sport";
+CM_ SG_ 921 ST_MDRV_DRVLOG "Drive Logic mode 0000-Unchanged 0001-1 0010-2 0011-3 0100-4 0101-5";
+CM_ SG_ 921 ST_MDRV_POW "00 Unchanged 01 Normal 10 Sport 11 Sport+";
+CM_ SG_ 921 ST_MDRV_ACT2 "M sign in KOMBI On/Off 00 Off 01 On 11 Signal invalid";
+CM_ SG_ 921 ST_MDRV_ACT "M Drive on/off 01 Off 10 On 11 Signal Invalid";
+CM_ SG_ 921 ST_MDRVE_GWS "00 Unchanged 01 D 10 S 11 Signal Invalid";
+CM_ SG_ 921 ST_MDRV_DSC "000 No Change 001 DSC Aus 010 DSC Ein 100 DSC Ein Sport 101 DTC Ein M-Track mode 111 Signal invalid";
+CM_ BO_ 970 "You set your M Drive settings in the iDrive: CCC_GM will change the 0x3CA packet to broadcast the current desired M Drive settings The DME_DDE sees this change, updates 0x399 settings";
+CM_ BO_ 473 "M3 SZL sends the button press to the DME_DDE in 0x1D9 then the DME_DDE broadcast's Im in M Dynamic Mode with 0x399";
+CM_ SG_ 473 M_BUTTON_XOR "00-Not Pressed. 01-Pressed";
+CM_ SG_ 473 M_BUTTON "00-Not pressed. 01-Pressed";
+CM_ SG_ 408 ST_DKG_SPORT_MOD "believe this is what DME_DDE uses to determine it's sport? 0x1D2 is what FRM uses to turn Sport indic on/off, so I assm this is the car in sport mess";
+CM_ SG_ 408 SPORT_BUTTON "The sport button press comes from the GWS is 0x198 Byte4 bit2. The status of the transmission sport mode comes from DKG in 0x1D2 Byte3 bit 2";
+CM_ BO_ 842 "Navigation GPS";
+CM_ SG_ 842 GPS_LONG "GPS Longitude";
+CM_ SG_ 842 GPS_LAT "GPS Latitude";
+CM_ BO_ 518 "Status Shiftlights";
+CM_ SG_ 518 CTR_SHLI_T "Time_until_the_next_segment_is_illuminated";
+CM_ SG_ 518 CTR_SHLI "Shiftlight_control";
+CM_ SG_ 518 CTR_SHLI_FLS "Shiftlight_flashing";
+CM_ BO_ 789 "Vehicle Mode";
+CM_ BO_ 893 "ST_DKG. RQ_AUXWP Not used. ST_OTMP_DKG=STATE_TEMP_GB. TEMP_DKG=TEMP_GB. 1000ms";
+CM_ SG_ 893 ST_TEMP_DKG "Value description guessed.. copied from egs";
+CM_ BO_ 945 "Gearbox data 3 cycle: 100ms";
+CM_ BO_ 772 "0x304 Status Gang [13] 24 0x18 SMG_M/SMG/EGS_MECH+NAVI/EGS_MECH/DKG";
+CM_ BO_ 184 "Torque request DKG";
+CM_ SG_ 184 RPM_TAR_ENG_DKG "Engine_target_speed";
+CM_ SG_ 184 ST_MOD_DKG "DKG_Mode";
+CM_ SG_ 184 TORQ_CLT_DKG "Clutch_Torque";
+CM_ SG_ 184 TORQ_TAR_ADJR_POS_DKG "Requirement_filling_torque_on_crankshaft";
+CM_ SG_ 184 TORQ_TAR_DKG "Target_torque_requirement_at_crankshaft";
+CM_ BO_ 797 "Status of flat tire indicator RPA Switch pressed 0x31D, 02, FC, FF. Not pressed 0x31D, 02, 03, FE";
+CM_ BO_ 1504 "KOMBI services";
+CM_ BO_ 1557 "5F5C - CAN message/combi: Trailer stabilization logic deactivated due to missing CAN message INSTR3 (ID 0x615).";
+CM_ BO_ 691 "Acceleration Data";
+CM_ BO_ 793 "Operation button RDC ";
+CM_ BO_ 790 "Operation button DSC";
+CM_ BO_ 1449 "5E83 - PT-Can: Message Netzwerkmanagement_DSC (ID 0x5A9) could not be sent (sent by DSC-SG). 5E84 - PT-Can: Message BOS_MELDUNG_DSC (ID 0x5A9, brake pad wear) could not be sent (sent by DSC-SG). 10s JA 8";
+CM_ BO_ 225 "5E7B - PT-Can: Message RADMOM_BREMSE (0xE1) could not be sent (sent by DSC-SG).";
+CM_ BO_ 762 "Seat occupancy belt contacts status";
+CM_ BO_ 884 "Wheel Tolerance Adjustment";
+CM_ SG_ 884 ST_TOMA "Status_Tolerance_Adjustment";
+CM_ SG_ 884 TOMA_WHL_RRH "Rear_Right";
+CM_ SG_ 884 TOMA_WHL_RLH "Rear_Left";
+CM_ SG_ 884 TOMA_WHL_FRH "Front_Right";
+CM_ SG_ 884 TOMA_WHL_FLH "Front_Left";
+CM_ BO_ 1176 "0x498 Netzwerkmanagement 24 0x18 DKG/EGS_MECH/EGS_MECH+NAVI/SMG/SMG_M";
+CM_ BO_ 1193 "DSC_CT/DSC_RB/DXC_RB";
+CM_ BO_ 1506 "0x5E2 Service control unit 5E2 CCC_GW Service 8 (Powermngmt standing consumer) 5s YES 8 BUS_ACTIV CANDNST x - x x x";
+CM_ BO_ 802 "Max soft - 2.0amp (0x07D0). Max hard - 0.0amp (0x0000)";
+CM_ SG_ 802 DAMPER_CURRENT_RRH "Current 0..2.0A hard..soft";
+CM_ SG_ 802 DAMPER_CURRENT_RLH "Current 0..2.0A hard..soft";
+CM_ SG_ 802 DAMPER_CURRENT_FRH "Current 0..2.0A hard..soft";
+CM_ SG_ 802 DAMPER_CURRENT_FLH "Current 0..2.0A hard..soft";
+CM_ BO_ 1170 "0x492 Netzwerkmanagement PT-CAN DME_DDE 100 ms JA 8";
+CM_ BO_ 404 "5ED0 - Hill Descent Control: SZL sends Signal_OpGapcAcc=invalid. (Operation_Tempomat ID 194h, signal OpGapcAcc). Signal_OpModChoCcca=invalid. (Operation_Tempomat ID 194h, signal OpModChoCcca).";
+CM_ BO_ 897 "Electronic engine oil dipstick cycle: 10s B0->19= Bar at min, 35 is bar at half B1->F0 = OK, F1->MAX, F2 ->+1l";
+CM_ BO_ 174 "Deceleration Request EMF";
+CM_ BO_ 760 "Time/Date KOMBI 15 s DLC8 ( Uhrzeit/Datum KOMBI 15 s JA 8) 15s";
+CM_ BO_ 550 "D37D - PT-CAN: Message WIPER SPEED (0x226) not received or wrong message length (DLC) [Sender: rain sensor]";
+CM_ BO_ 538 "Lamp status cycle: 5s";
+CM_ BO_ 422 "5E76 - PT-Can: Message DISTANCE (ID 0x1A6) could not be sent (sent by DSC-SG).";
+CM_ BO_ 437 "Heat flow / load torque air conditioning cycle: 1s";
+CM_ SG_ 437 CTR_EFAN_AIC "electric_fan_level_(fan_speed)";
+CM_ SG_ 437 CTR_AIC_SPFN "Control_special_cooling_functions";
+CM_ SG_ 437 CTR_AIC_RDI "Requirement_for_readiness_of_air_conditioning_compressor";
+CM_ SG_ 437 CTR_CLMP "Map_cooling_requirement";
+CM_ SG_ 437 TORQ_TAR_ACCM "Current_torque_absorption_of_climate_control";
+CM_ SG_ 437 ST_PWR_SPCOS "Status_Power_Special_Consumer";
+CM_ BO_ 173 "Deceleration Request ACC";
+CM_ BO_ 678 "Operation of wiper button";
+CM_ SG_ 470 MFUNC_LWK "UP:E0 0C Down:D0 0C Source:C0 4C Recirculate:C0 1C Voice:C0 0D Phone:C1 0C Vol+:C8 0C Vol-:C4 0C";
+CM_ BO_ 570 "Status radio remote buttons";
+CM_ BO_ 904 "Vehicle Type";
+CM_ SG_ 904 TYP_VEH "Vehicle_Type";
+CM_ SG_ 904 TYP_BODY "Body_Type";
+CM_ SG_ 904 QUAN_CYL "Number_of_Cylinders";
+CM_ SG_ 904 QUAN_GR "Number_of_Gears";
+CM_ SG_ 904 TYP_ENG "Engine_Fuel_Type";
+CM_ SG_ 904 TYP_STE "Steering_Type";
+CM_ SG_ 904 TYP_GRB "Gearbox_Type";
+CM_ SG_ 904 CLAS_PWR "Power_Class";
+CM_ SG_ 904 TYP_CNT "Country_Type";
+CM_ SG_ 904 TYP_CAPA "Engine_Size";
+CM_ BO_ 896 "Vehicle Identification Number";
+CM_ BO_ 910 "0x38E Start speed DME_DDE - JA_Anf 2 KL_15 ";
+CM_ SG_ 910 RPM_ENG_STA "startdrehzahl?";
+CM_ BO_ 438 "Heat flow engine DME_DDE 1000 ms YES 8";
+CM_ BO_ 816 "Mileage/Range COMBI 10s ( Kilometerstand/Reichweite KOMBI 10s) CAN Botschaft: PT_CAN_KILOMETERST ID:0x330";
+CM_ SG_ 816 RNG "range";
+CM_ SG_ 816 FLLV_FUTA_RH "fuel amount in the right half";
+CM_ SG_ 816 FLLV_FUTA_LH "fuel amount in the left half";
+CM_ SG_ 816 FLLV_FUTA "total fuel amount";
+CM_ SG_ 816 MILE_KM "mileage";
+CM_ BO_ 784 "A_TEMP_RELATIVZEIT=TEMP_EX TAM T_SEC_COU_REL=T_CTR_REL_CAN (E65) bzw. T_REL_CAN (E60), T_REL_CAN_2 CAN Botschaft: PT_CAN_TEMP_ZEIT ID:0x310 1second";
+CM_ BO_ 512 "0x200 Control speed step cruise control DME_DDE 200 ms, 8 ";
+CM_ BO_ 466 "= CTR_DISP_PRG_GRB //control display sport mode gearbox: IF CTR_DISP_SPMOD_GRB = 1H.0x1D2 is what the FRM uses to turn the Sport mode indicator on/off, so I assume this is the car's Im in sport mode message.";
+CM_ BO_ 400 "Display ACC";
+CM_ BO_ 690 "BREMSDRUCK_RAD - Wheel Brake Pressure";
+CM_ BO_ 436 "5F4B - Kombi: Kombi sends status_handbrake light switch=invalid (PT-CAN, ID 0x1B4, signal ST_IDLI_HABR)";
+CM_ BO_ 183 "Torque request ACC";
+CM_ BO_ 428 "D35D - PT-CAN: Message STAT_AFS (ID 0x1FC) not received. [Broadcaster: AFS]! 5F2D - DSC-Acc interface (ECD): ACC sends: checksum of the received ACC message wrong (PT-CAN, ID 0xAD, signal CHKSM_DCRN_BRP_ACC). 4ms";
+CM_ BO_ 820 "0x334 Powermanagement Ladespannung PWML 1s JA 2 BUS_ACTIV CANPWML";
+CM_ BO_ 196 "Steering wheel angle cycle: 10ms PTCAN";
+CM_ SG_ 196 STWA "Steering_wheel_angle";
+CM_ SG_ 196 STWA_ERR "Status_steering_wheel_angle";
+CM_ SG_ 196 STWA_V "Steering_wheel_angular_velocity";
+CM_ BO_ 414 "Status DSC cycle: 20ms PTCAN";
+CM_ SG_ 414 BRP "Brake_Pressure";
+CM_ SG_ 414 ST_BRP "State brake pressure";
+CM_ SG_ 414 ST_DCRN_AVL "status deceleration actual-value";
+CM_ SG_ 414 ST_DSC "Status_DSC_mode";
+CM_ SG_ 414 ST_CLCTR "Status_regulation";
+CM_ SG_ 414 ST_ABS "Status_ABS_mode";
+CM_ BO_ 182 "Torque Request DSC - cycle: 20ms PTCAN";
+CM_ SG_ 182 ST_TORQ_TAR_DSC "Status_torque_request_DSC";
+CM_ SG_ 182 TORQ_TAR_ADJR_POS_DSC "Requirement_filling_torque_on_crankshaft";
+CM_ SG_ 182 TORQ_TAR_DSC "Target_torque_requirement_at_crankshaft";
+CM_ BO_ 418 "RQ_BST_RPM_IDLG ! = FFH. Status_starting_clutch= ST_STCLT status if forced-shift up is active in actual gear shift mode=ST_RCOG_FSHUP";
+CM_ SG_ 169 ALIV_TORQ_2_DME "alive counter torque_2 DME_DDE";
+CM_ SG_ 169 TORQ_AVL_SPAR_POS "5F73 - DME_DDE error: DME_DDE sends torque value=invalid (PT-CAN, ID 0xA9, signal TORQ_AVL_SPAR_POS). torque actual-value spare positive";
+CM_ SG_ 169 TORQ_AVL_SPAR_NEG "torque actual-value spare negative";
+CM_ SG_ 169 CHKSM_TORQ_2_DME "check sum (check control torque_2 DME_DDE)";
+CM_ SG_ 169 TORQ_AVL_MIN "5F71 - DME_DDE error: DME_DDE sends torque_current_minimum=invalid (PT-CAN,ID 0xA9, signal TORQ_AVL_MIN). torque actual-value minimum";
+CM_ SG_ 169 TORQ_AVL_MAX "5F72 - DME_DDE-Fehler: DME_DDE sendet Drehmoment_aktuelles_Maximum=ungueltig (PT-CAN,ID 0xA9, Signal TORQ_AVL_MAX). torque actual-value maximum";
+CM_ BO_ 186 "Gearbox Data 1 cycle: 20ms PTCAN";
+CM_ SG_ 186 ST_HYPP_ACV "Status hydraulic-pump active, SSG only!";
+CM_ SG_ 186 ALIV_GRB "alive counter ETCU";
+CM_ SG_ 186 ST_MOD_GRB "status mode gearbox, EGS only";
+CM_ SG_ 186 CHKSM_GRB "checksum ETCU";
+CM_ SG_ 186 GRDT_REIN "gearbox-drive-train reinforcement";
+CM_ SG_ 186 ST_GR_GRB "Status Gear";
+CM_ SG_ 186 ST_GRLV_ACV "Shift Status";
+CM_ SG_ 186 ST_CCLT "status torque-converter-lockup clutch, EGS only";
+CM_ SG_ 186 RPM_GRB_NEGL "Output_speed";
+CM_ SG_ 168 ST_OBD_CTFN_GRB "status OBD control-function gearbox";
+CM_ SG_ 168 ST_RCPT_ENG_DSC "5F77 - DME_DDE error: DME_DDE sends torque value=invalid (PT-CAN, ID 0xA8, signal ST_RCPT_ENG_DSC). 5F78 - DME_DDE error: DME_DDE sends engine status=invalid (PT-CAN, ID 0xA8, signal ST_RCPT_ENG_DSC). status receipt engine DSC";
+CM_ SG_ 168 ST_RCPT_ENG_ARS "status receipt engine ARS";
+CM_ SG_ 168 ST_RCPT_ENG_ACC "status receipt engine ACC";
+CM_ SG_ 168 ST_RCPT_ENG_EGS "status receipt engine EGS/SSG/TCT";
+CM_ SG_ 168 ST_DMEA_SWO "status DME_DDE/ACC switch-off";
+CM_ SG_ 168 RCPT_ACC_SWO_SYS_DME "receip ACC switch-off system DME_DDE";
+CM_ SG_ 168 ALIV_TORQ_1_DME "alive counter torque_1 DME_DDE";
+CM_ SG_ 168 ST_TORQ_AVL "status torque actual-value";
+CM_ SG_ 168 CHKSM_TORQ_1_DME "check sum (check control torque_1 DME_DDE)";
+CM_ SG_ 168 TORQ_AVL_DMEE "torque actual-value ECU/ETCU";
+CM_ SG_ 168 TORQ_AVL "5F6F - DME_DDE error: DME_DDE sends torque_current_value=invalid (PT-CAN, ID 0xA8, signal TORQ_AVL).";
+CM_ BO_ 181 "Torque request EGS";
+CM_ SG_ 181 ST_TORQ_TAR_EGS "state torque target EGS";
+CM_ SG_ 181 ST_OTMP_GRB "status overtemperature gearbox";
+CM_ SG_ 181 TORQ_TAR_ADJR_POS_EGS "torque target adjustment-range posistive EGS";
+CM_ SG_ 181 ST_OBD_GRB "status OBD gearbox";
+CM_ SG_ 181 ST_OBD_ERR_GRB "status OBD error gearbox";
+CM_ SG_ 181 ST_LIM_STORQ "status starting torque limitation";
+CM_ SG_ 181 TORQ_DRAW_GRB "torque draw gearbox";
+CM_ SG_ 181 TEMP_GRB "temperature gearbox";
+CM_ SG_ 181 ALIV_TORQ_EGS "alive counter torque EGS";
+CM_ SG_ 181 CHKSM_TORQ_EGS "check sum (check control torque EGS)";
+CM_ SG_ 181 TORQ_TAR_EGS "torque target EGS";
+CM_ BO_ 764 "0x2FC Status ZV-Klappenzustand CAS 100 ms JA 5";
+CM_ SG_ 170 RPM_ENG_ERR "RPM engine error";
+CM_ SG_ 170 ST_IDLG_ENG "Status idling engine";
+CM_ SG_ 170 ST_CLCTR_V "Status closed loop control speed 6DCB - electron. Brake pre-filling: Signal ST_CLCTR_V in PT-CAN message TORQUE_3 (ID 0xAA) invalid";
+CM_ SG_ 170 RQAM_FU "Required amount of fuel:";
+CM_ SG_ 170 TORQ_DVCH "torque driver choice";
+CM_ SG_ 170 ALIV_TORQ_3_DME "alive counter torque_3 DME_DDE";
+CM_ SG_ 170 CHKSM_TORQ_3_DME "check sum (check control torque_3 DME_DDE)";
+CM_ SG_ 170 ANG_ACPD "Accelerator Pedal Angle %";
+CM_ SG_ 170 RPM_ENG "value engine speed";
+CM_ BO_ 402 "Gear selector, ...";
+CM_ BO_ 948 "0x3B4 Powermanagement Batteriespannung DME_DDE 5000 ms JA 8";
+CM_ BO_ 416 "Vehicle speed cycle: 20ms PTCAN";
+CM_ SG_ 416 V_VEH "Vehicle_speed";
+CM_ SG_ 416 ST_VEH_DVCO "Vehicle_status";
+CM_ SG_ 416 ANGV_YAW_DSC "Vehicle_yaw_rate";
+CM_ SG_ 416 ACLN_VEH_LN_DSC "Vehicle_Longitudinal_Acceleration";
+CM_ SG_ 416 ACLN_VEH_ACRO_DSC "Vehicle_Lateral_Acceleration";
+CM_ BO_ 304 "Terminal Status";
+CM_ SG_ 304 ST_KL_R "Wake Up Signal 5F56 - CAS: CAS sends signal KL_15 invalid or signal KL_R invalid or implausibility between signal KL_15 and wakeup signal (PT-Can (ID 0x130h),signal ST_KL_R,ST_KL_15).";
+CM_ SG_ 304 NO_KEY "key number, 0..10";
+CM_ BO_ 206 "Wheel speeds cycle: 20ms PTCAN";
+CM_ SG_ 206 V_WHL_RRH "Rear_Right";
+CM_ SG_ 206 V_WHL_RLH "Rear_Left";
+CM_ SG_ 206 V_WHL_FRH "Front_Right";
+CM_ SG_ 206 V_WHL_FLH "Front_Left";
+BA_DEF_ BO_ "GenMsgBackgroundColor" STRING ;
+BA_DEF_ BO_ "GenMsgForegroundColor" STRING ;
+BA_DEF_ BO_ "matchingcriteria" INT 0 0;
+BA_DEF_ BO_ "filterlabeling" INT 0 0;
+BA_DEF_DEF_ "GenMsgBackgroundColor" "#ffffff";
+BA_DEF_DEF_ "GenMsgForegroundColor" "#000000";
+BA_DEF_DEF_ "matchingcriteria" 0;
+BA_DEF_DEF_ "filterlabeling" 1;
+VAL_ 2147483648 TORQ_TAR_SSG 3 "invalid signal" 2 "decrease torque" 1 "increase torque" 0 "no actual torque request";
+VAL_ 2147483648 ST_TORQ_TAR_SSG 3 "invalid signal" 2 "decrease torque" 1 "increase torque" 0 "no actual torque request";
+VAL_ 2147483648 ST_OBD_ERR_GRB_SSG 3 "signal invalid" 1 "OBD-relevant error occurred" 0 "no OBD-relevant error present";
+VAL_ 920 OP_DSC 0 "Fully_ON" 4 "DTC_mode" 1 "DSC_OFF";
+VAL_ 518 CTR_SHLI 1 "OFF" 2 "ON" 3 "Signal_Invalid";
+VAL_ 518 CTR_SHLI_FLS 1 "OFF" 2 "ON" 3 "Signal_Invalid";
+VAL_ 893 ST_TEMP_DKG 3 "signal invalid" 2 "cooling stage 2" 1 "cooling stage 1" 0 "no requirement";
+VAL_ 184 ST_MOD_DKG 0 "No_switching_action" 2 "Creep" 3 "MD_increase" 4 "MD_reduction" 6 "Speed_control" 12 "MD_limitation" 13 "Engine_stopped" 15 "Signal_invalid";
+VAL_ 884 ST_TOMA 2 "SIGNAL INVALID" 1 "ADJUSTMENT DONE" 0 "ADJUSTMENT NOT DONE";
+VAL_ 806 ST_EDC_MODE 3 "Sport +" 1 "Sport" 0 "Comfort";
+VAL_ 404 OP_PUBU_CCTR_ACC 127 "signal invalid" 64 "tap axial, resume" 16 "tap up / down, Off" 8 "overpress backward, lower step" 4 "tap backwards, set / retard" 2 "overpress forward, higher step" 1 "tap forward, set / accelerate" 0 "nothing to do";
+VAL_ 538 ST_HEADLIGHTS 7 "Description for the value '0x6'" 5 "DIP BEAM" 4 "PARK";
+VAL_ 538 INTERIOR_LIGHTS 9 "INTERIOR and EXTERIOR LIGHTS ON" 8 "INTERIOR LIGHTS ON";
+VAL_ 437 CTR_AIC_SPFN 0 "No_requirement" 1 "additional_heating_power" 2 "request_low_TMOT" 3 "signal_invalid";
+VAL_ 437 CTR_AIC_RDI 0 "no_readiness" 1 "readiness" 2 "readiness_+_level_1" 4 "readiness_+_level_2" 7 "signal_invalid";
+VAL_ 437 CTR_CLMP 0 "no_request" 1 "Request_low_TMOT" 3 "Signal_invalid";
+VAL_ 470 MFUNC_LWK 16384 "Description for the value '0x1F00'" 4096 "Recirculate" 256 "Voice Command" 32 "Down" 22 "Up" 8 "Volume -" 4 "Volume +" 1 "Telephone" 0 "No Button Pressed";
+VAL_ 904 TYP_VEH 0 "No_information" 1 "E65" 2 "E66" 3 "E67" 4 "E60" 5 "E61" 6 "E63" 7 "E64" 8 "E90" 9 "RR01" 10 "E81" 11 "E82" 12 "E87" 13 "E91" 14 "E92" 15 "E93" 16 "E70" 17 "E71" 18 "E88" 19 "R55" 20 "R56" 21 "R57" 22 "E89" 23 "E72" 40 "E84" 42 "R60" 255 "Signal Invalid";
+VAL_ 904 TYP_BODY 1 "Limousine-Saloon" 2 "Coupe" 3 "Touring" 4 "Cabrio" 5 "Roadster" 6 "Compact" 7 "Security_Vehicle" 8 "Light_Protection" 9 "Sport-Coupe_Z3" 10 "4x4_single_piece_tailgate" 11 "4x4_two_piece_tailgate" 12 "MCV_Mega-City-Vehicle" 13 "BEV_Battery-Electric-Vehicle" 255 "Signal_Invalid" 51 "Clubman" 54 "Hatchback" 50 "Hatch_Coupe" 35 "Sports_Activity_Tourer" 38 "Sports_Hatch" 34 "Sports_Activity_Coupe" 33 "Sports_Activity_Vehicle";
+VAL_ 904 QUAN_GR 0 "Continuously_variable" 4 "4_Gears" 5 "5_Gears" 6 "6_Gears" 7 "7_Gears_-_M_vehicles" 8 "8_Gears" 15 "Signal_Invalid";
+VAL_ 904 TYP_ENG 4 "Gasoline_Direct_Injection" 6 "Diesel_Direct_Injection" 8 "Electric" 0 "Unknown" 5 "Gasoline" 7 "Diesel" 9 "Hybrid" 15 "Signal_Invalid";
+VAL_ 904 TYP_STE 1 "LHD" 2 "RHD";
+VAL_ 904 TYP_GRB 0 "Manual" 2 "Steptronic" 4 "Dual_Clutch" 1 "Automatic" 3 "Sequential";
+VAL_ 904 CLAS_PWR 12 "Low_power_class-UL" 13 "Medium_power_class-ML" 14 "High_power_class-OL" 15 "Signal_Invalid";
+VAL_ 904 TYP_CNT 9 "Egypt" 6 "Australia" 21 "Belgium" 8 "Brazil" 3 "Germany" 1 "ECE" 4 "UK-Ireland" 10 "Gulf" 14 "India" 17 "Indonesia" 5 "Japan" 12 "Canada" 7 "Korea" 15 "Malaysia" 20 "Mexico" 18 "Philippines" 11 "South_Africa" 13 "Taiwan" 16 "Thailand" 2 "USA" 19 "Vietnam" 22 "China" 23 "Hong_Kong" 24 "Russia";
+VAL_ 438 ST_LDST_GEN 3 "signal invalid" 2 "Utilization rate = 100%" 1 "50% <= Utilization rate < 100%" 0 "0% <= Utilization rate < 50%";
+VAL_ 438 ST_GEN 3 "signal invalid" 2 "defective" 1 "in high-temperature cutoff" 0 "OK";
+VAL_ 436 ST_WALI_ENG 3 "signal invalid" 1 "yellow" 0 "off";
+VAL_ 436 ST_INTF_CCTRA_KI 4 "error in fgr" 2 "error in acc module" 1 "error in kombi" 0 "okay";
+VAL_ 436 ST_UN_V_SPDM 3 "signal invalid" 1 "mph" 0 "km/h";
+VAL_ 183 ST_ACC_MOD_DME 7 "signal invalid" 6 "reserved" 5 "driver has stepped over" 4 "brake active" 3 "reserved" 2 "normal" 1 "stand by" 0 "passive";
+VAL_ 183 ST_ACC_SWO_SYS_DME 3 "signal invalid" 2 "system okay" 1 "system shutdown, error detected" 0 "reserved";
+VAL_ 183 ST_TORQ_TAR_ACC 3 "invalid signal" 2 "decrease torque" 1 "increase torque" 0 "no actual torque request";
+VAL_ 820 RPM_IDLG_SPEC 3 "signal invalid" 1 "increased idle rpm required" 0 "no requirement on idle rpm";
+VAL_ 196 STWA_ERR 0 "OK" 1 "Verification" 2 "STWA_faulty" 3 "Signal_invalid";
+VAL_ 414 ST_BRP 3 "Signal Invalid" 2 "No Statement Possible" 1 "Brake Pressure Present" 0 "No Brake Pressure";
+VAL_ 414 ST_DCRN_AVL 3 "HBA Intervention" 1 "DCC Intervention" 15 "signal invalid" 2 "EMF Intervention" 0 "no requirement";
+VAL_ 414 ST_DSC 7 "signal invalid" 6 "under voltage" 5 "reserved" 4 "traction mode" 3 "reserved" 2 "faulty" 1 "passive" 0 "all clear";
+VAL_ 414 ST_CLCTR 64 "DYNO_ACTIVE" 32 "EBV_REGULATION" 0 "no regulation" 255 "signal invalid" 16 "msr regulation" 8 "hba regulation" 4 "DSC/TCS regulation" 2 "ASR regulation" 1 "abs regulation";
+VAL_ 414 ST_ABS 1 "Fallback_level" 2 "Malfunction" 3 "Signal_Invalid" 0 "OK";
+VAL_ 182 ST_TORQ_TAR_DSC 3 "INTERFACE_LOCKED" 2 "ASR_INTERVENTION" 1 "MSR_INTERVENTION" 0 "NO_INTERVENTION";
+VAL_ 169 ST_SW_LEV_RPM 1 "idle speed < the threshold value" 0 "idle speed > the threshold value";
+VAL_ 169 ST_INFS 1 "thrust cutoff active" 0 "no action";
+VAL_ 186 ST_GR_GRB 15 "signal invalid" 11 "7. gear" 10 "6. gear" 9 "5. gear" 8 "4. gear" 7 "3. gear" 6 "2. gear" 5 "1. gear" 4 "reserved" 3 "P" 2 "R" 1 "N" 0 "reserved";
+VAL_ 186 ST_GRLV_ACV 0 "Not_shifting" 1 "Shifting" 3 "Signal_Invalid";
+VAL_ 186 ST_CCLT 3 "signal invalid" 2 "closed" 1 "controlled" 0 "disengaged";
+VAL_ 168 ST_RCPT_ENG_DSC 2 "timeout error" 1 "plausibility/activity error" 0 "status ok";
+VAL_ 168 ST_RCPT_ENG_ARS 2 "timeout error" 1 "plausibility/activity error" 0 "status ok";
+VAL_ 168 ST_RCPT_ENG_ACC 2 "timeout error" 1 "plausibility/activity error" 0 "status ok";
+VAL_ 168 ST_RCPT_ENG_EGS 2 "timeout error" 1 "plausibility/activity error" 0 "status ok";
+VAL_ 168 ST_TORQ_AVL 15 "signal invalid" 3 "intervention ign and inj not executed" 2 "intervention inj not executed" 1 "intervention ign not executed" 0 "intervention request executed";
+VAL_ 181 ST_TORQ_TAR_EGS 3 "invalid signal" 2 "decrease torque" 1 "increase torque" 0 "no actual torque request";
+VAL_ 181 ST_OTMP_GRB 3 "signal invalid" 2 "cooling stage 2" 1 "cooling stage 1" 0 "no requirement";
+VAL_ 181 ST_OBD_ERR_GRB 3 "signal invalid" 1 "OBD-relevant error occurred" 0 "no OBD-relevant error present";
+VAL_ 181 TORQ_TAR_EGS 3 "invalid signal" 2 "decrease torque" 1 "increase torque" 0 "no actual torque request";
+VAL_ 764 BOOT_STA 1 "Opened" 0 "Closed";
+VAL_ 764 BONNET_STA 1 "Opened" 0 "Closed";
+VAL_ 764 DOOR_RR_STA 1 "Opened" 0 "Closed";
+VAL_ 764 DOOR_RL_STA 1 "Opened" 0 "Closed";
+VAL_ 764 DOOR_FR_STA 1 "Opened" 0 "Closed";
+VAL_ 764 DOOR_FL_STA 1 "Opened" 0 "Closed";
+VAL_ 170 RPM_ENG_ERR 3 "signal invalid" 1 "speed sensor defective" 0 "signal RPM_ENG correct";
+VAL_ 170 ST_IDLG_ENG 3 "signal invalid" 1 "not idling" 0 "idling";
+VAL_ 170 ST_CLCTR_V 11 "pedal kickdown" 10 "pedal transgress" 9 "pedal pressed" 8 "pedal not pressed" 7 "cc regulation, speed up" 6 "cc regulation, recall" 5 "cc regulation, constant" 4 "cc regulation, retard" 1 "acc regulation, ped pressed" 0 "acc regulation, ped not pressed";
+VAL_ 402 GEAR_SELECTOR 29699 "D" 27136 "Idle" 22786 "Change to N, down" 18177 "Change to N, up" 11524 "R" 80 "P";
+VAL_ 948 ST_SWO_KL_30 3 "signal invalid" 2 "shutdown by the PM done" 1 "no shutdown by the PM done" 0 "reserved";
+VAL_ 948 ST_BTSW 2 "signal invalid" 1 "battery main switch opens in 5s" 0 "battery main switch closed";
+VAL_ 948 ENG_ST 9 "Engine not running" 0 "Engine running";
+VAL_ 464 ST_SW_WAUP 3 "signal invalid" 2 "EGS forced switching active" 1 "engine warm" 0 "warming up";
+VAL_ 464 ST_ENG_RUN 3 "signal invalid" 2 "engine running" 1 "engine starting" 0 "engine off";
+VAL_ 464 CTR_SLCK 3 "signal invalid" 2 "requirement Shiftlock" 1 "no requirement Shiftlock" 0 "not allowed";
+VAL_ 416 ST_VEH_DVCO 7 "signal invalid" 3 "vehicle moves, direction n/a" 2 "moves backward, FL/FR backward" 1 "moves forward, FL/FR forward" 0 "vehicle standing";
+VAL_ 304 ST_KL_R 2 "signal invalid" 1 "terminal on" 0 "temrinal off";
+VAL_ 304 ST_KL_50 2 "signal invalid" 1 "terminal on" 0 "temrinal off";
+VAL_ 304 ST_KL_15 2 "signal invalid" 1 "terminal on" 0 "temrinal off";

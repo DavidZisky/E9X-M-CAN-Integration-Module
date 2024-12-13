@@ -18,10 +18,12 @@ MACRO_CAM_LEGALDISCLAIMER                                               // Camer
     kein_ld
 COMMUNICATION_PARKMASTER                                                // PDC not working without this.
     gen2
-SLEEPDELAY_CLAMP30B_MIN                                                 // Sleep after 5 min
-    1E
-SLEEPDELAY_TIMERVALUE                                                   // 180s - reduced to match SLEEPDELAY_CLAMP30B_MIN
-    UNK_PARAM_0
+SLEEPDELAY_CLAMP30B_MIN                                                 // Delay sleep until follow-up clamp timeout is below Xs. Should be set to CAS KL30G_TIMEOUT - 6min but custom values do not work!
+    wert_1440s
+SLEEPDELAY_TIMERVALUE                                                   // 1E - (EXX CIC value).
+    wert_300s
+SHUTDOWN_DELAY_TIMER_1                                                  // After bus activity detected, wait 20s after complete boot to shutdown (EXX CIC value).
+    wert_20s
 ECO_CSC_KOMBI
     nicht_aktiv
 ID5_COLOR_SET
